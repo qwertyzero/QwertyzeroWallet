@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>qml/images/back.svg</file>
+<file>qml/images/close.svg</file>
+<file>qml/images/copy.svg</file>
+<file>qml/images/icon.png</file>
+<file>qml/images/info.svg</file>
+<file>qml/images/openLink.svg</file>
+<file>qml/images/search.svg</file>
+<file>qml/images/settings.svg</file>
+<file>qml/InfoDialog.qml</file>
+<file>qml/ItemListAddress.qml</file>
+<file>qml/ItemListTransaction.qml</file>
+<file>qml/nestmain.qml</file>
+<file>qml/OpenWallet.qml</file>
+<file>qml/PrivateKeysDialog.qml</file>
+<file>qml/qml.zip</file>
+<file>qml/SeedDialog.qml</file>
+<file>qml/Settings.qml</file>
+<file>qml/Wallet.qml</file>
+</qresource>
+</RCC>
